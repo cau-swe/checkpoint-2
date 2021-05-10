@@ -1,0 +1,5 @@
+![Object Sequence Diagram Brainstorming 1](https://user-images.githubusercontent.com/53007295/117594693-9beb9980-b179-11eb-82c8-63fd792ac7b2.jpg)
+![Object Sequence Diagram Brainstorming 2](https://user-images.githubusercontent.com/53007295/117594696-9db55d00-b179-11eb-9959-37ff5fb65e31.jpg)
+![Object Sequence Diagram Brainstorming 3](https://user-images.githubusercontent.com/53007295/117594698-9e4df380-b179-11eb-9377-41e9ac6c99ce.jpg)
+![Object Sequence Diagram Brainstorming 4](https://user-images.githubusercontent.com/53007295/117594700-9f7f2080-b179-11eb-86b3-4ccd2d2363bb.jpg)
+![Object Sequence Diagram Brainstorming 5](https://user-images.githubusercontent.com/53007295/117594704-a27a1100-b179-11eb-8c8a-6c38a399437a.jpg)
